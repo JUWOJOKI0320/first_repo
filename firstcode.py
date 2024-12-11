@@ -1,0 +1,1 @@
+print("Hello Handsome, i hope i will get hired as an intern and to be hired as a software engineer, not only hoping but i will work hard for it")
